@@ -2,7 +2,7 @@
 
 ## Platforma Cloud9
 
-Każdy z Was dostał na maila którym wysyłaliście zgłoszenie linka z zaproszeniem do zespołu rorworkshops.
+Każdy z Was dostał na maila którym wysyłaliście zgłoszenie linka z zaproszeniem do platformy.
 
 Po kliknięciu w linka będziecie musieli przejść prostą rejestrację. Nie ma potrzeby podawania karty kredytowej, jeśli zostaniecie o to poproszeni, odświeżcie stronę i spróbujcie jeszcze raz.
 
