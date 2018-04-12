@@ -1,4 +1,4 @@
-# Ruby on Rails LEVEL UP 2018
+![](https://github.com/daftcode/ror_levelup_2018/blob/master/RoR_levelUP_1200x628.png)
 
 ## Platforma Cloud9
 
@@ -22,4 +22,7 @@ Polecam korzystać z platformy Cloud9 do rozwiązywania zadań, będzie najłatw
 
 Rozwiązania i ewentualne pytania proszę przesyłać na mojego maila `piotr.kruczek@daftcode.pl`, proszę umieścic w tytule wiadomości `[ROR2018]`.
 
-Powodzenia!
+## Plan zajęć
+
+![](https://github.com/daftcode/ror_levelup_2018/blob/master/RoR_640x760.png)
+
